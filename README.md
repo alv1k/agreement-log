@@ -1,2 +1,2 @@
 Журнал договоров - Реестр подписанных и неподписанных договоров с поставщиками для удобного контроля и управления.
-screenshot - ![Журнал договоров](https://github.com/user-attachments/assets/02ed70db-9a43-486a-aa35-274af0ac16c9)
+![Журнал договоров](https://github.com/user-attachments/assets/02ed70db-9a43-486a-aa35-274af0ac16c9)
